@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.venv
+.idea
+
+lesson1/homework/main.py
+token.txt
